@@ -1,0 +1,24 @@
+# dependencies
+node_modules
+
+# env
+.env
+.env.*
+server/.env
+client/.env
+
+# builds
+dist
+build
+.next
+coverage
+
+# logs
+logs
+*.log
+
+# secrets
+*.pem
+*.key
+.kube
+
